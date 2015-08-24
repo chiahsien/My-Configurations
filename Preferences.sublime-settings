@@ -1,0 +1,45 @@
+{
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Colorcoder/material-dark (Colorcoded).tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": true,
+	"file_exclude_patterns":
+	[
+		".DS_Store",
+		".gitkeep",
+		"dump.rdb"
+	],
+	"folder_exclude_patterns":
+	[
+		".git",
+		".sass-cache",
+		"coverage",
+		"log",
+		"tmp"
+	],
+	"font_face": "Source Code Pro",
+	"font_size": 14,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Git Conflict Resolver",
+		"Markdown",
+		"Vintage"
+	],
+	"indent_to_bracket": true,
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
+	"open_files_in_new_window": false,
+	"original_color_scheme": "Packages/Material Color Scheme/sublime/material-dark.tmTheme",
+	"overlay_scroll_bars": "enabled",
+	"show_encoding": true,
+	"sidebar_medium": true,
+	"soda_folder_icons": true,
+	"tab_size": 2,
+	"tabs_small": true,
+	"theme": "Material-Theme.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
